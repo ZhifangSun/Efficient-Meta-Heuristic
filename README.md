@@ -1,7 +1,7 @@
 # Efficient-Meta-Heuristic-Algorithms-for-Integrated-Process-Planning-and-Scheduling
-Appendix 1.py: determine the average scheduling time (convergence time) and average makespan；
+MGA.py: For the implementation of the MGA algorithm in paper "A Modified Genetic Algorithm With New Encodingand Decoding Methods for Integrated ProcessPlanning and Scheduling Problem";
 
-Compare_ms.py: compare makespan at the same scheduling time ；
+test6.py: Comparison of relative-priority coding mechanisms against five metaheuristic algorithms;
 
 Compare_st.py: compare scheduling time at the same makespan；
 
