@@ -5,6 +5,6 @@ test6.py: Comparison of relative-priority coding mechanisms against five metaheu
 
 Compare_st.py: compare scheduling time at the same makespan；
 
-illustrative example.py: Illustrative examples from section 5 of the text
+Calculating ARV.py: Calculate the performance (ARV) in 25 sets of parameter combinations;
 
-sample chromosome.py: Gantt chart of the decoded chromosomes of the samples in the text
+result: Results of orthogonal experimental parameter settings and experimental results for all meta-heuristic algorithms.
